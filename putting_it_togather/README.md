@@ -1,3 +1,7 @@
+# Instructions
+
+![alt text] (https://github.com/akarelia20/React_assignments/blob/main/putting_it_togather/instructions.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

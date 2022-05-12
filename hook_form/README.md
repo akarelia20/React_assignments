@@ -4,7 +4,16 @@
 
 # Getting Started
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and Bootstapn library (checkout "index.html")
+This project was bootstrapped by adding this lines of code in the index.html file.
+
+```HTML
+  <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.0/css/bootstrap.min.css"
+      integrity="sha384-9gVQ4dYFwwWSjIDZnLEWnxCjeSWFphJiwGPXr1jddIhOegiu1FwO5qRGvFXOdJZ4"
+      crossorigin="anonymous"
+    />
+```
 
 ## Available Scripts
 

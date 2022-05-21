@@ -9,6 +9,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Output
 
+ninja bonustask was attempted in this assigenment where a user can inpupt the color and size of the box.
+
 ![alt text](https://github.com/akarelia20/React_assignments/blob/main/box-generator/output.png)
 
 
@@ -20,9 +22,4 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-
-
-
-
 

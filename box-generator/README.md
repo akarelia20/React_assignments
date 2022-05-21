@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Output
 
-ninja bonustask was attempted in this assigenment where a user can inpupt the color and size of the box.
+Ninja bonus task was attempted in this assigenment where a user can input the color and size of the box.
 
 ![alt text](https://github.com/akarelia20/React_assignments/blob/main/box-generator/output.png)
 

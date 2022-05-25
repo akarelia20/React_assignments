@@ -4,30 +4,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 # Instructions: Tabs assignment
 
-![alt text]()
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-# Instructions: Box Generator assignment
-
-![alt text](https://github.com/akarelia20/React_assignments/blob/main/box-generator/instructions.png)
-
-# Output
-
-Ninja bonus task was attempted in this assigenment where a user can input the color and size of the box.
-
-![alt text](https://github.com/akarelia20/React_assignments/blob/main/box-generator/output.png)
+![alt text](https://github.com/akarelia20/React_assignments/blob/main/tabs/Screen%20Shot%202022-05-24%20at%2011.34.50%20PM.png)
 
 ## Available Scripts
 

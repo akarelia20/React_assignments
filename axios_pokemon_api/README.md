@@ -4,7 +4,7 @@
 
    > npx create-react-app
 
-2. then cd into the folder
+2. Then cd into the folder using CLI.
 
 3. To start the react on local port 3000
 
@@ -18,17 +18,8 @@
 
 # Instructions: Axios Pokemon API assignment
 
-![alt text]()
+![alt text](https://github.com/akarelia20/React_assignments/blob/main/axios_pokemon_api/instructions.png)
 
 # Output
 
 ![alt text](https://github.com/akarelia20/React_assignments/blob/main/axios_pokemon_api/output.png)
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
